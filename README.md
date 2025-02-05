@@ -2,4 +2,6 @@
 
 - Estado del proyecto: No joda mijo no hay nada.
 
-<footer>Penes</footer>
+para ejecutar el fokin sistema, debes poner: 
+
+``` npm install react ```
